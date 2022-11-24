@@ -19,3 +19,7 @@ The website is very simple to understand for everyone. Our customers can easily 
 - Cart Page
 - Responsive Login Page
 - Responsive SignUp Page
+
+link for Github repository: https://github.com/00017259/WT.CW1.00017259
+link for website: https://jocular-gecko-d95905.netlify.app/ 
+hosted using netlify
